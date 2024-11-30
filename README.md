@@ -1,9 +1,9 @@
-## Hi there 👋
+## 👋 Coding Journey (Jiahao Xiang) 
 
-[![Overview](https://github.com/jiahaoxiang2000/jiahaoxiang2000/blob/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/jiahaoxiang2000/jiahaoxiang2000)
-[![Languages](https://github.com/jiahaoxiang2000/jiahaoxiang2000/blob/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/jiahaoxiang2000/jiahaoxiang2000)
-[![Overview](https://github.com/jiahaoxiang2000/jiahaoxiang2000/blob/master/generated/overview.svg#gh-light-mode-only)](https://github.com/jiahaoxiang2000/jiahaoxiang2000)
-[![Languages](https://github.com/jiahaoxiang2000/jiahaoxiang2000/blob/master/generated/languages.svg#gh-light-mode-only)](https://github.com/jiahaoxiang2000/jiahaoxiang2000)
+![](https://raw.githubusercontent.com/jiahaoxiang2000/jiahaoxiang2000/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jiahaoxiang2000/jiahaoxiang2000/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/jiahaoxiang2000/jiahaoxiang2000/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jiahaoxiang2000/jiahaoxiang2000/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **jiahaoxiang2000/jiahaoxiang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
