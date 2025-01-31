@@ -1,4 +1,4 @@
-## 👋 Coding Journey (Jiahao Xiang) 
+## 👋 Coding Journey (Isomo) 
 
 ![](https://raw.githubusercontent.com/jiahaoxiang2000/jiahaoxiang2000/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/jiahaoxiang2000/jiahaoxiang2000/master/generated/overview.svg#gh-light-mode-only)
